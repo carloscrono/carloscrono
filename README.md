@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate frontend developer from El Salvador</h3>
+<h3 align="center">A passionate software developer from El Salvador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carloscrono&label=Profile%20views&color=0e75b6&style=flat" alt="carloscrono" /> </p>
 
